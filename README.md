@@ -41,7 +41,7 @@
 
 <p><img align="left" src="https://camo.githubusercontent.com/0699fad17c923f7d4a091691ee97f7e7c675d788764f9f5f0b7ddf17cc5a4fef/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d63617074616c7068612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="captalpha" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=captalpha&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=radical" style="max-width: 100%; user-select: auto;"></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rupammal&show_icons=true&locale=en" alt="rupammal" /></p>
+<p><img align="left" src="https://camo.githubusercontent.com/0699fad17c923f7d4a091691ee97f7e7c675d788764f9f5f0b7ddf17cc5a4fef/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d63617074616c7068612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="captalpha" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=captalpha&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=radical" style="max-width: 100%; user-select: auto;"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupammal&" alt="rupammal" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/a9cd1eb6168ccfe324d01c50e3505864d40e4cdca70b9d18e9f7d1236f9cba5e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d63617074616c706861267468656d653d7261646963616c" alt="captalpha" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=captalpha&amp;theme=radical" style="max-width: 100%; user-select: auto;"></p>
 
