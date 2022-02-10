@@ -50,6 +50,8 @@
 <p align="center"> <img src="d2.gif" /> </p>
 <br>
 
+<p<<h2 align="center">Some stats</he></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupammal&show_icons=true&locale=en&layout=compact&theme=radical" alt="rupammal" /></p>
 
 
