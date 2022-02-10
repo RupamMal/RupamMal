@@ -50,7 +50,7 @@
 <p align="center"> <img src="d2.gif" /> </p>
 <br>
 
-<p><<h2 align="center">Some stats</he></p>
+<p><h2 align="center">Some stats</he></p>
 
 <br>
 
@@ -61,5 +61,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupammal&theme=radical" alt="rupammal" /></p>
 
+<br>
 
 [![Rupam's github activity graph](https://activity-graph.herokuapp.com/graph?username=rupammal&theme=rogue)](https://github.com/rupammal/github-readme-activity-graph)
