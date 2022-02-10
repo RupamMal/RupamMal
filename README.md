@@ -46,6 +46,7 @@
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=rupammal&margin-w=30&theme=onedark&row=1"/>
 </p>
 
+<iframe src="https://giphy.com/embed/5WJ6K7XnP2K2p3VWft" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/designer-client-deekay-5WJ6K7XnP2K2p3VWft">via GIPHY</a></p>
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupammal&show_icons=true&locale=en&layout=compact&theme=radical" alt="rupammal" /></p>
