@@ -44,10 +44,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rupammal&show_icons=true&locale=en&theme=radical" alt="rupammal" /></p
 
 
-<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupammal&show_icons=true&locale=en&layout=compact&theme=radical" alt="rupammal" /></p>
+<p>&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupammal&show_icons=true&locale=en&layout=compact&theme=radical" alt="rupammal" /></p>
 
 
 <p>&nbsp;&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rupammal&theme=radical" alt="rupammal" /></p>
+<br>
 <br>
 
 [![Rupam's github activity graph](https://activity-graph.herokuapp.com/graph?username=rupammal&theme=rogue)](https://github.com/rupammal/github-readme-activity-graph)
