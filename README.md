@@ -46,7 +46,7 @@
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=rupammal&margin-w=30&theme=onedark&row=1"/>
 </p>
 
-<p align="center"> <img src="https://giphy.com/gifs/designer-client-deekay-5WJ6K7XnP2K2p3VWft" /> </p>
+<p align="center"> <img src="d2.gif" /> </p>
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupammal&show_icons=true&locale=en&layout=compact&theme=radical" alt="rupammal" /></p>
