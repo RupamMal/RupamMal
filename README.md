@@ -54,6 +54,4 @@
 <br>
 <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupammal&theme=radical" alt="rupammal" /></p>
 
-
-<br>
 [![Rupam's github activity graph](https://activity-graph.herokuapp.com/graph?username=rupammal&theme=rogue)](https://github.com/rupammal/github-readme-activity-graph)
