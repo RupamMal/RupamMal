@@ -52,7 +52,7 @@
 
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupammal&theme=radical" alt="rupammal" /></p>
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupammal&theme=radical" alt="rupammal" /></p>
 
 
 <br>
