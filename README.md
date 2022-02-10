@@ -42,6 +42,6 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupammal&show_icons=true&locale=en&layout=compact&theme=radical" alt="captalpha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupammal&show_icons=true&locale=en&layout=compact&theme=radical" alt="rupammal" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupammal&show_icons=true&locale=en&theme=radical" alt="rupammal" /></p>
