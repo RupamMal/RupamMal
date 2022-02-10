@@ -41,6 +41,13 @@
 
 <br>
 
+</p>
+<h2 align="center">🏆 Trophies</h2></a>
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=rupammal&margin-w=30&theme=onedark&row=1"/>
+</p>
+
+<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupammal&show_icons=true&locale=en&layout=compact&theme=radical" alt="rupammal" /></p>
 
 
