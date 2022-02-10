@@ -45,6 +45,7 @@
 <h2 align="center">🏆 Trophies</h2></a>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=rupammal&margin-w=30&theme=onedark&row=1"/>
 </p>
+<br>
 
 <p align="center"> <img src="d2.gif" /> </p>
 <br>
