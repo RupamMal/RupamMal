@@ -47,12 +47,13 @@
 <br>
 
 
-<p>&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupammal&show_icons=true&locale=en&layout=compact&theme=radical" alt="rupammal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupammal&show_icons=true&locale=en&layout=compact&theme=radical" alt="rupammal" /></p>
 
 <br>
 <br>
 
-<p>&nbsp;&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rupammal&theme=radical" alt="rupammal" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rupammal&theme=radical" alt="rupammal" /></p>
+
 <br>
 <br>
 
