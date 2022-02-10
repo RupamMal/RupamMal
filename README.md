@@ -45,4 +45,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rupammal&show_icons=true&locale=en" alt="captalpha" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=captalpha&amp;theme=radical" style="max-width: 100%; user-select: auto;"></p>
 
 <p>
-  <img align="center" src="https://camo.githubusercontent.com/7cb19767ac20f8d243d77c416da84dd602bbcef8e80d24b12d35ca93fec7e608/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d63617074616c7068612673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d7261646963616c" alt="captalpha" data-canonical-src="https://github-readme-stats.vercel.app/api?username=captalpha&amp;show_icons=true&amp;locale=en&amp;theme=radical" style="max-width: 100%; user-select: auto;"></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupammal&" alt="captalpha" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=captalpha&amp;theme=radical" style="max-width: 100%; user-select: auto;">
