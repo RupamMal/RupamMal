@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupammal&label=Profile%20views&color=0e75b6&style=flat" alt="rupammal" /> </p>
 
-<p align="center"> <img src="profile-card-responsive.png" alt="rupammal" height="500" width="300" /> </p>
+<p align="center"> <img src="profile-card-responsive.png" alt="rupammal" height="500" width="400" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rupammal14" target="blank"><img src="https://img.shields.io/twitter/follow/rupammal14?logo=twitter&style=for-the-badge" alt="rupammal14" /></a> </p>
 
