@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupam Mal</h1>
-<h3 align="center">Electronics and communication student passionate about Web dev and UI-UX design</h3>
+<h3 align="center">Electronics and communication Engineering student passionate about Web dev and UI-UX design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupammal&label=Profile%20views&color=0e75b6&style=flat" alt="rupammal" /> </p>
 
