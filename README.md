@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rupammal25@gmail.com**
 
-- 📄 Know about my experiences [https://rupammal.github.io/animated_portfolio/](https://rupammal.github.io/animated_portfolio/)
+- 📄 Know about my experiences [https://rupammal.github.io/Rupam_portfolio/](Rupam Portfolio)
 
 - ⚡ Fun fact **I am an expert for giving punch lines**
 
