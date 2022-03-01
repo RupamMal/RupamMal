@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rupammal14" target="blank"><img src="https://img.shields.io/twitter/follow/rupammal14?logo=twitter&style=for-the-badge" alt="rupammal14" /></a> </p>
 
-- 🔭 I’m currently working on **Movie website**
+- 🔭 I’m currently working on **Group Project**
 
 - 🌱 I’m currently learning **Enterprise Designing**
 
