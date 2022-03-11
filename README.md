@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="profile-card-responsive.png" alt="rupammal" height="500" width="400" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rupammal14" target="blank"><img src="https://img.shields.io/twitter/follow/rupammal14?logo=twitter&style=for-the-badge" alt="rupammal14" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/_under_root_/" target="blank"><img src="https://img.shields.io/instagram/_under_root_follow/?logo=twitter&style=for-the-badge" alt="rupammal14" /></a> </p>
 
 - 🔭 I’m currently working on **Group Project**
 
