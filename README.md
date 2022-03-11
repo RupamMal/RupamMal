@@ -5,7 +5,8 @@
 
 <p align="center"> <img src="profile-card-responsive.png" alt="rupammal" height="500" width="400" /> </p>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahildotexe&logoColor=white&color=FFDE59" alt="sahildoexe" /> <img
+src="https://www.instagram.com/_under_root_/?hl=en" alt="_under_root_" /> 
 
 - 🔭 I’m currently working on **Group Project**
 
