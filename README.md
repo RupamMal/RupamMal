@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences https://rupammal.github.io/Rupam_portfolio/
 
-- ⚡ Fun fact **I am a pocket bomb  **
+- ⚡ Fun fact **I am a pocket bomb**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
