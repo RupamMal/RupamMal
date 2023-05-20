@@ -63,4 +63,7 @@
 
 <br>
 
-[![Rupam's github activity graph](https://activity-graph.herokuapp.com/graph?username=rupammal&theme=rogue)](https://github.com/rupammal/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RupamMal&theme=dark&border_radius=4.7)](https://git.io/streak-stats)
+
+
+  <a href="https://github.com/RupamMal/github-readme-stats"><img alt="Rupam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupamMal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
