@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **UX Learning**
 
-- 🌱 I’m currently learning **Enterprise Designing**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
-- 🤝 I’m looking for help with **UX learning**
+- 🤝 I’m looking for help with **Deep Learning - image processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RupamMal](https://github.com/RupamMal)
 
@@ -21,7 +21,6 @@
 
 - 📄 Know about my experiences https://rupammal.github.io/Rupam_portfolio/
 
-- ⚡ Fun fact **I am a pocket bomb**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
