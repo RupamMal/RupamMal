@@ -50,9 +50,7 @@
 <p align="center"> <img src="d2.gif" /> </p>
 <br>
 
-<p><h2 align="center">Recent Projects</he></p>
-
-<br>
+<h1>Recent Projects</h1>
 
 - [BunkBuddies](https://bunkbuddies.vinnovateit.com/) | Worked as Project lead
 - [The Opporunities Portal](https://www.theopportunitiesportal.com/) | Worked as frontend-developer
@@ -62,7 +60,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupammal&theme=radical" alt="rupammal" /></p>
 
-<br>
 
 
 
