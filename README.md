@@ -50,14 +50,15 @@
 <p align="center"> <img src="d2.gif" /> </p>
 <br>
 
-<p><h2 align="center">Some stats</he></p>
+<p><h2 align="center">Recent Projects</he></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupammal&show_icons=true&locale=en&layout=compact&theme=radical" alt="rupammal" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupammal&show_icons=true&locale=en&theme=radical" alt="rupammal" /></p>
+- [BunkBuddies](https://bunkbuddies.vinnovateit.com/) | Worked as Project lead
+- [The Opporunities Portal](https://www.theopportunitiesportal.com/) | Worked as frontend-developer
+- [VinHack Landing Page](https://vinhack.vinnovateit.com/) | Worked as frontend-developer
+- [Zecar](https://zecar.com/) | Worked as fullstack developer, worked on logic side of next-app
+- MessIt | [android](https://play.google.com/store/apps/details?id=com.vinnovateit.messit) | [iOS](https://apps.apple.com/in/app/messit/id6443450483) | Worked as lead developer
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupammal&theme=radical" alt="rupammal" /></p>
 
