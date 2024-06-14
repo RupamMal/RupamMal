@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rupammal25@gmail.com**
 
-- 📄 Know about my experiences https://rupammal.github.io/Rupam_portfolio/
+- 📄 Know about my experiences https://rupammal.github.io/Personal-portfolio/
 
 
 ### Blogs posts
